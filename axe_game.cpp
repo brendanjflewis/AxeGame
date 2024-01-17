@@ -44,7 +44,7 @@ int main()
         {
             DrawText("Game Over", 400, 200, 40, RED);
             // DrawText("Try Again?", 400, 250, 20, BLACK);
-            // DrawText("Yes", 350, 300, 20, GREEN);
+            // DrawText("Yes", 350, 300, 230, GREEN);
             // DrawText("No", 450, 300, 20, RED);
         }
         else
